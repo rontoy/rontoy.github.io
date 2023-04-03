@@ -1,0 +1,256 @@
+html {
+    height: 100%;
+  }
+  body {
+    min-height: 100%;
+   background-color: white;
+  }
+  
+  
+  div#menubar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #181D31;
+   
+    }
+  
+  div#menubar li {
+    float: left;
+    
+  }
+  
+  div#menubar li a {
+    display: block;
+    color: rgb(243, 240, 240);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'technical';
+    font-size: 23px;
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .header {
+    padding: 32px;
+    text-align: center;
+    background: black;
+  
+  }
+  
+  /* Increase the font size of the heading */
+  .header h1 {
+    font-size: 60px;
+    font-family: 'Brush Script MT';
+    margin-right: 0px;
+    text-align: center;
+    color: #e2ece8;
+  }
+  
+  
+  
+  
+  img {
+    border-radius: 100%;
+    width: 200px;
+    float: left;
+    display: block;
+    margin-left: 420px;
+    margin-top: 90px;
+    height: 200px;
+   
+  }
+  
+  .about {
+   text-align: center;
+   margin-top: 20px;
+   margin-bottom: 10px;
+   padding: 15px;
+ 
+  
+  }
+  
+  
+  
+  div.about h2 {
+    font-family: 'Brush Script MT';
+    font-size: 50px;
+    text-align: right;
+    margin-top: 70px;
+    margin-right: 450px;
+    padding: 20px;
+ 
+  }
+  
+  div.about p {
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    margin-left: 10px;
+    text-align: center;
+    padding-left: 20px;
+   
+   
+  }
+  
+  
+  
+  p {
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    margin-right: 250px;
+ 
+  }
+  li {
+    float: left;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; 
+    text-align: center; 
+  }
+  
+  #menubar a:hover {
+    background-color: #e2ece8;
+  
+  }
+  
+  .col-container {
+    display: table;
+    width: 100%;
+    margin: 2px;
+  }
+  .col {
+    display: table-cell;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  div.menubar li {
+    display: inline-block;
+  
+  }
+  .resume {
+   text-align: center;
+   margin-top: 40px;
+   margin-bottom: 10px;
+   padding: 15px;
+   
+  
+  }
+
+  .skills {
+
+    margin-top: 150px;
+  }
+
+
+  div.skills h2 {
+    font-family: 'Brush Script MT';
+    font-size: 50px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left: 350px;
+
+
+    
+  }
+
+
+  div.skills li {
+
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    margin-left: 280px;
+    text-align: center; 
+  
+
+   
+  }
+
+  div.services h2 {
+    font-family: 'Brush Script MT';
+    font-size: 50px;
+    text-align: right;
+    margin-top: 30px;
+    margin-right: 280px;
+  
+  
+  }
+
+  div.services h3 {
+
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 30px;
+    
+    
+   
+  }
+
+  div.services p {
+
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    text-align: left;
+    margin-right: 150px;
+    
+    
+   
+  }
+
+  div.resume h2 {
+    font-family: 'Brush Script MT';
+    font-size: 50px;
+    text-align: center;
+   
+    
+  }
+
+  div.resume h3 {
+
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 100;
+  }
+
+  div.resume p {
+
+    font-family: 'Times New Roman';
+    font-size: 25px;
+    word-spacing: 2px;
+    text-align: center;
+    margin-left: 250px;
+    margin-top: 50px;
+    
+    
+    
+   
+  }
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+      
+  
+  footer {
+    padding: 25px;
+   }
